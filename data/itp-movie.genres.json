@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "661683da1a0e1a245e3aff5d"
+  },
+  "genresTitle": "Tình cảm",
+  "createdAt": {
+    "$date": "2024-04-10T12:19:38.553Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T12:19:38.553Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660a0271c3a4b068ab479210"
+  },
+  "genresTitle": "Hành động"
+},
+{
+  "_id": {
+    "$oid": "660a0271c3a4b068ab479211"
+  },
+  "genresTitle": "Khoa học viễn tưởng"
+},
+{
+  "_id": {
+    "$oid": "661361ef59fcef78f337d3c5"
+  },
+  "genresTitle": "Hài Hước",
+  "createdAt": {
+    "$date": "2024-04-08T03:18:07.477Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T03:18:07.477Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66166028101c377940328133"
+  },
+  "genresTitle": "Chiến Tranh",
+  "createdAt": {
+    "$date": "2024-04-10T09:47:20.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T09:47:25.625Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6616603c101c37794032813a"
+  },
+  "genresTitle": "Lịch Sử",
+  "createdAt": {
+    "$date": "2024-04-10T09:47:40.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T09:47:40.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6616604b101c37794032813e"
+  },
+  "genresTitle": "Tài Liệu",
+  "createdAt": {
+    "$date": "2024-04-10T09:47:55.278Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T09:47:55.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6616868f1a0e1a245e3aff9f"
+  },
+  "genresTitle": "Gia Đình",
+  "createdAt": {
+    "$date": "2024-04-10T12:31:11.232Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T12:31:11.232Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661686981a0e1a245e3affa5"
+  },
+  "genresTitle": "Chính kịch",
+  "createdAt": {
+    "$date": "2024-04-10T12:31:20.844Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T12:31:20.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66168b641a0e1a245e3b00b5"
+  },
+  "genresTitle": "Tâm Lý",
+  "createdAt": {
+    "$date": "2024-04-10T12:51:48.265Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T12:51:48.265Z"
+  }
+}]

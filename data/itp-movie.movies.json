@@ -1,0 +1,834 @@
+[{
+  "_id": {
+    "$oid": "660a0a8dc3a4b068ab47921d"
+  },
+  "mediaType": "movie",
+  "mediaTitle": "The Shawshank Redemption",
+  "mediaDecription": "Nhà tù Shawshank kể về Andrew, một nhân viên nhà băng, bị kết án chung thân sau khi giết vợ và nhân tình của cô. Anh một mực cho rằng mình bị oan. Andy bị đưa tới nhà tù Shawshank. Tại đây, thế giới ngầm của các phạm nhân, sự hà khắc của hệ thống quản giáo xung đột và giành nhau quyền thống trị. Chỉ có các phạm nhân trung lập là bị kẹt ở giữa và có thể bỏ mạng. Làm quen với tay ‘quản lý chợ đen’ Redding, Andy dần thích nghi với cuộc sống tại Shawshank. Song, kế hoạch lớn hơn việc tồn tại ở nhà tù này đang được anh suy tính. Qua con mắt và lời kể của Redding, cuộc vượt ngục vĩ đại này được kể tuần tự cùng một kết thúc bất ngờ.",
+  "mediaRate": 9.3,
+  "mediaYear": 1994,
+  "mediaOfViewmediaRate": 0,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20231018-1/202b6de69554481f31e54423c8ed7309.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/PLl99DlL6b4",
+  "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231019/SRNpBmu7/index.m3u8",
+  "genres": [
+    {
+      "$oid": "660a0271c3a4b068ab479210"
+    }
+  ],
+  "performer": [
+    {
+      "$oid": "6616b5a55706dc6d40842054"
+    },
+    {
+      "$oid": "6616b5a55706dc6d40842055"
+    },
+    {
+      "$oid": "6616b5a55706dc6d40842056"
+    }
+  ],
+  "episodes": [],
+  "updatedAt": {
+    "$date": "2024-04-10T15:52:05.327Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660a0a8dc3a4b068ab47921e"
+  },
+  "mediaType": "movie",
+  "mediaTitle": "The Godfather",
+  "mediaDecription": "Một câu chuyện kéo dài từ năm 1945 đến năm 1955, một biên niên sử về gia đình tội phạm Corleone người Mỹ gốc Ý. Khi tộc trưởng gia đình tội phạm có tổ chức, Vito Corleone bị ám sát bởi băng nhóm đối thủ, con trai út của ông, Michael đã phải nhúng tay vào tội ác và chống lại đối thủ với việc phát động một chiến dịch trả thù đẫm máu.",
+  "mediaRate": 9.2,
+  "mediaYear": 1972,
+  "mediaOfViewmediaRate": 3,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20231014-1/39aa8b76c6b10330bd685897500a6026.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/UaVTIH8mujA",
+  "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20231017/sO7PyfCM/index.m3u8",
+  "genres": [
+    {
+      "$oid": "660a0271c3a4b068ab479210"
+    }
+  ],
+  "performer": [
+    {
+      "$oid": "6616b3b25706dc6d40841c1e"
+    },
+    {
+      "$oid": "6616b3b25706dc6d40841c1f"
+    },
+    {
+      "$oid": "6616b3b25706dc6d40841c20"
+    },
+    {
+      "$oid": "6616b3b25706dc6d40841c21"
+    },
+    {
+      "$oid": "6616b3b25706dc6d40841c22"
+    }
+  ],
+  "episodes": [],
+  "updatedAt": {
+    "$date": "2024-04-11T03:17:03.466Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6613626259fcef78f337d3cd"
+  },
+  "mediaType": "movie",
+  "mediaTitle": "Junk Flying car",
+  "mediaDecription": "Trong một ngôi làng trôi dạt nơi tổ chức các cuộc đua, những cuộc đua xe kỳ lạ ở vùng nông thôn và những âm mưu xấu xa của những kẻ hung ác đen tối. Dưới sự thức tỉnh và đấu tranh của một chàng trai trẻ đã thừa nhận là bị đánh bại, anh đã dẫn dắt ngôi làng giành chiến thắng trong một cuộc thi quốc tế..",
+  "mediaRate": 8,
+  "mediaYear": 2024,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20240404-1/25e8be98dc8e2fa947df95b0d3a0db4a.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/Sl7iZoKtyl4",
+  "episodes": [],
+  "genres": [
+    {
+      "$oid": "661361ef59fcef78f337d3c5"
+    }
+  ],
+  "performer": [
+    {
+      "$oid": "6616c9fb5706dc6d40842ca7"
+    },
+    {
+      "$oid": "6616c9fb5706dc6d40842ca8"
+    },
+    {
+      "$oid": "6616c9fb5706dc6d40842ca9"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-08T03:20:02.457Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T17:18:51.102Z"
+  },
+  "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240404/byacIm5W/index.m3u8",
+  "mediaOfViewmediaRate": 0
+},
+{
+  "_id": {
+    "$oid": "6613688fd60e7832eb189c2b"
+  },
+  "mediaType": "movie",
+  "mediaTitle": "Godzilla x Kong: The New Empire",
+  "mediaDecription": "Kong và Godzilla - hai sinh vật vĩ đại huyền thoại, hai kẻ thủ truyền kiếp sẽ cùng bắt tay thực thi một sứ mệnh chung mang tính sống còn để bảo vệ nhân loại, và trận chiến gắn kết chúng với loài người mãi mãi sẽ bắt đầu.",
+  "mediaRate": 9,
+  "mediaYear": 2024,
+  "mediaOfViewmediaRate": 0,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20240402-1/9451c8ca38286b82764df85a9e51723c.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/qqrpMRDuPfc",
+  "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240403/cDwbqYSk/index.m3u8",
+  "episodes": [],
+  "genres": [
+    {
+      "$oid": "660a0271c3a4b068ab479211"
+    }
+  ],
+  "performer": [
+    {
+      "$oid": "6616ca075706dc6d40842d4b"
+    },
+    {
+      "$oid": "6616ca075706dc6d40842d4c"
+    },
+    {
+      "$oid": "6616ca075706dc6d40842d4d"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-08T03:46:23.760Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T17:19:03.022Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66136931d60e7832eb189c41"
+  },
+  "mediaType": "movie",
+  "mediaTitle": "The Equalizer 3",
+  "mediaDecription": "Robert McCall chuyển đến sinh sống tại miền Nam nước Ý nhưng phát hiện ra bạn bè của mình bị một tổ chức mafia ở địa phương kiểm soát. Khi tính mạng của họ bị đe dọa, ông buộc phải quay trở lại con đường sát thủ để bảo vệ bạn bè.",
+  "mediaRate": 8.9,
+  "mediaYear": 2024,
+  "mediaOfViewmediaRate": 0,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20240108-1/2183f5725b963ac491295495b17a2d53.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/19ikl8vy4zs",
+  "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240404/8C7RJdwp/index.m3u8",
+  "episodes": [],
+  "genres": [
+    {
+      "$oid": "660a0271c3a4b068ab479210"
+    }
+  ],
+  "performer": [
+    {
+      "$oid": "6616ca115706dc6d40842dbc"
+    },
+    {
+      "$oid": "6616ca115706dc6d40842dbd"
+    },
+    {
+      "$oid": "6616ca115706dc6d40842dbe"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-08T03:49:05.439Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T17:19:13.462Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661369a8d60e7832eb189c48"
+  },
+  "mediaType": "movie",
+  "mediaTitle": "Sianviathan",
+  "mediaDecription": "Những năm cuối của triều đại nhà Tùy, một buổi tối nọ một thư sinh tên là Vương Phục Sinh lánh nạn ở quán trọ đã có một cuộc kỳ ngộ ở bến đò bên sông. Chàng vô tình lạc vào cuộc đấu giành &quot;Thần kiếm &quot; giữa quần hùng, trải qua những thử thách khó khăn từ cướp bóc, phản quân, quái thú, đến quan lại lưu vong, cuối cùng trở nên chín chắn, trở thành một vị quan danh tiếng một thời.",
+  "mediaRate": 9,
+  "mediaYear": 2024,
+  "mediaOfViewmediaRate": 0,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20240402-1/a4f591c5f24ecc44e3107271942929cb.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/0p1QKkoYo7w",
+  "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240402/dAjPRNK4/index.m3u8",
+  "episodes": [],
+  "genres": [
+    {
+      "$oid": "660a0271c3a4b068ab479210"
+    }
+  ],
+  "performer": [
+    {
+      "$oid": "6616ca175706dc6d40842dfa"
+    },
+    {
+      "$oid": "6616ca175706dc6d40842dfb"
+    },
+    {
+      "$oid": "6616ca175706dc6d40842dfc"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-08T03:51:04.774Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T17:19:19.626Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66136c2cd60e7832eb189c51"
+  },
+  "mediaType": "movie",
+  "mediaTitle": "Players",
+  "mediaDecription": "Sáng tác cuốn sách về kế hoạch cặp kè thông minh, nhà văn thể thao nọ ở New York bất ngờ rơi vào lưới tình. Liệu cô có thể chuyển từ vui chơi qua đường sang yêu đương nghiêm túc?",
+  "mediaRate": 8.5,
+  "mediaYear": 2024,
+  "mediaOfViewmediaRate": 0,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20240402-1/3b74a4dd317fcd183f9ea88bf9e93990.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/8gH6AEBwEAw",
+  "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240402/SZetLM0A/index.m3u8",
+  "episodes": [],
+  "genres": [],
+  "performer": [
+    {
+      "$oid": "6616ca1e5706dc6d40842e38"
+    },
+    {
+      "$oid": "6616ca1e5706dc6d40842e39"
+    },
+    {
+      "$oid": "6616ca1e5706dc6d40842e3a"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-08T04:01:48.446Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T17:19:26.451Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66166382f62d4b2d58a2fad4"
+  },
+  "mediaType": "movie",
+  "mediaTitle": "The Bloody Hundredth",
+  "mediaDecription": "Gặp gỡ các phi công ngoài đời thực, những người đã truyền cảm hứng cho bộ phim Bá Chủ Bầu Trời khi họ chia sẻ những sự kiện đau buồn và biến đổi của Nhóm ném bom 100.",
+  "mediaRate": 8,
+  "mediaYear": 2024,
+  "mediaOfViewmediaRate": 0,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20240410-1/973deabb80f0af62ce9dffd0ebd93ce9.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/ZkYOtyp3hKU",
+  "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240410/pRhLWuRB/index.m3u8",
+  "episodes": [],
+  "genres": [
+    {
+      "$oid": "6616604b101c37794032813e"
+    },
+    {
+      "$oid": "6616603c101c37794032813a"
+    },
+    {
+      "$oid": "66166028101c377940328133"
+    }
+  ],
+  "performer": [
+    {
+      "$oid": "6616ca285706dc6d40842ea9"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-10T10:01:38.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T17:19:36.098Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6616652af62d4b2d58a2fb11"
+  },
+  "mediaType": "movie",
+  "mediaTitle": "The Beekeeper",
+  "mediaDecription": "Jason Statham vào vai Adam Clay, một người nuôi ong cần mẫn và đơn độc. Anh có mối quan hệ tốt với bà chủ nhà, thậm chí coi bà như người thân duy nhất của mình. Thế nhưng, một sự kiện xảy ra khiến bà qua đời, và “người nuôi ong” Adam Clay quyết định bắt đầu kế hoạch trả thù tàn bạo của mình. Trong khi Clay vạch trần bí mật đằng sau đường dây lừa đảo cỡ lớn và bắt những kẻ có tội phải trả giá, thân phận thật của anh cũng dần được hé lộ.",
+  "mediaRate": 9,
+  "mediaYear": 2024,
+  "mediaOfViewmediaRate": 4,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20240130-1/f26d48a94d49bd7029fc3319fcaee6e3.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/SzINZZ6iqxY",
+  "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20240130/7Ohg65Vt/index.m3u8",
+  "episodes": [],
+  "genres": [
+    {
+      "$oid": "660a0271c3a4b068ab479210"
+    }
+  ],
+  "performer": [
+    {
+      "$oid": "6616c9e85706dc6d40842bec"
+    },
+    {
+      "$oid": "6616c9e85706dc6d40842bed"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-10T10:08:42.743Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-11T03:17:34.247Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "661685d91a0e1a245e3aff83"
+  },
+  "mediaType": "tv",
+  "mediaTitle": "Bách Yêu Phổ Phần 4",
+  "mediaDecription": "Bách Yêu Phổ》phần 4 kể về câu chuyện Đào Yêu dẫn theo tiểu hòa thượng  Ma Nha, cáo con Cổn Cổn và hàng xóm ở Đào đô Liễu công tử cùng tiếp tục vân du bốn phương tìm kiếm Bách Yêu Phổ thất lạc, dọc đường gặp được sáu loài yêu quái Ám Đao, Bách Tri, Phong Quả, Thục Hồ, Phong Sinh, Độn Ngư, chữa trị những chứng bệnh khó hiểu của chúng...",
+  "mediaRate": 8.5,
+  "mediaYear": 2024,
+  "mediaOfViewmediaRate": 1,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20240303-1/d568278d8092dc3e01b22741737bc347.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/736RrqpjJJY",
+  "mediaLinkEnbale": "",
+  "episodes": [
+    {
+      "title": "Tập 01",
+      "episodeNumber": 1,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20240303/O3dRkWTK/index.m3u8",
+      "_id": {
+        "$oid": "6616c9f05706dc6d40842c30"
+      }
+    },
+    {
+      "title": "Tập 02",
+      "episodeNumber": 2,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20240303/1vH3mW4i/index.m3u8",
+      "_id": {
+        "$oid": "6616c9f05706dc6d40842c31"
+      }
+    },
+    {
+      "title": "Tập 03",
+      "episodeNumber": 3,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20240303/Bj74uinm/index.m3u8",
+      "_id": {
+        "$oid": "6616c9f05706dc6d40842c32"
+      }
+    },
+    {
+      "title": "Tập 04",
+      "episodeNumber": 4,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s2.phim1280.tv/20240312/xg6JFpdc/index.m3u8",
+      "_id": {
+        "$oid": "6616c9f05706dc6d40842c33"
+      }
+    },
+    {
+      "title": "Tập 05",
+      "episodeNumber": 5,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240320/fARSL8Dg/index.m3u8",
+      "_id": {
+        "$oid": "6616c9f05706dc6d40842c34"
+      }
+    },
+    {
+      "title": "Tập 06",
+      "episodeNumber": 6,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240320/fARSL8Dg/index.m3u8",
+      "_id": {
+        "$oid": "6616c9f05706dc6d40842c35"
+      }
+    },
+    {
+      "title": "Tập 07",
+      "episodeNumber": 7,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240402/QY0rdQsT/index.m3u8",
+      "_id": {
+        "$oid": "6616c9f05706dc6d40842c36"
+      }
+    },
+    {
+      "title": "Tập 08",
+      "episodeNumber": 8,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240410/RHqwq3B8/index.m3u8",
+      "_id": {
+        "$oid": "6616c9f05706dc6d40842c37"
+      }
+    }
+  ],
+  "genres": [
+    {
+      "$oid": "661683da1a0e1a245e3aff5d"
+    }
+  ],
+  "performer": [],
+  "createdAt": {
+    "$date": "2024-04-10T12:28:09.299Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T17:18:40.026Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6616891a1a0e1a245e3affd4"
+  },
+  "mediaType": "tv",
+  "mediaTitle": "Firefly Lane (Phần 2)",
+  "mediaDecription": "Chẳng trở ngại nào là quá lớn trước tình bạn suốt đời giữa Kate và Tully. Nhưng liệu có sai lầm nào có thể chia cắt họ mãi mãi hay không?",
+  "mediaRate": 8,
+  "mediaYear": 2022,
+  "mediaOfViewmediaRate": 5,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20240324-1/1c9043b4644a5827ea7bec26d0031c20.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/oUUIhJuoCKw",
+  "mediaLinkEnbale": "",
+  "episodes": [
+    {
+      "title": "Tập 01",
+      "episodeNumber": 1,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/FVc8B11n/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842b9a"
+      }
+    },
+    {
+      "title": "Tập 02",
+      "episodeNumber": 2,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/CSNpjZ9k/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842b9b"
+      }
+    },
+    {
+      "title": "Tập 03",
+      "episodeNumber": 3,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/IaVvkGxE/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842b9c"
+      }
+    },
+    {
+      "title": "Tập 04",
+      "episodeNumber": 4,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/naBQmIPO/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842b9d"
+      }
+    },
+    {
+      "title": "Tập 05",
+      "episodeNumber": 5,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/i8IeNoXx/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842b9e"
+      }
+    },
+    {
+      "title": "Tập 06",
+      "episodeNumber": 6,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/iUX3pqix/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842b9f"
+      }
+    },
+    {
+      "title": "Tập 07",
+      "episodeNumber": 7,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/x91QbIg6/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842ba0"
+      }
+    },
+    {
+      "title": "Tập 08",
+      "episodeNumber": 8,
+      "mediaLinkEnbale": "https://s3.phim1280.tv/20240328/AZ8mQYli/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842ba1"
+      }
+    },
+    {
+      "title": "Tập 09",
+      "episodeNumber": 9,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/Nq7gSg1K/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842ba2"
+      }
+    },
+    {
+      "title": "Tập 10",
+      "episodeNumber": 10,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/Ms2UG8xO/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842ba3"
+      }
+    },
+    {
+      "title": "Tập 11",
+      "episodeNumber": 11,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/zZmkkXkW/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842ba4"
+      }
+    },
+    {
+      "title": "Tập 12",
+      "episodeNumber": 12,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/vV0X3B5K/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842ba5"
+      }
+    },
+    {
+      "title": "Tập 13",
+      "episodeNumber": 13,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/QNaDLwFK/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842ba6"
+      }
+    },
+    {
+      "title": "Tập 14",
+      "episodeNumber": 14,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/tX4FvN41/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842ba7"
+      }
+    },
+    {
+      "title": "Tập 15",
+      "episodeNumber": 15,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240328/5GoGpfXf/index.m3u8",
+      "_id": {
+        "$oid": "6616c9dc5706dc6d40842ba8"
+      }
+    }
+  ],
+  "genres": [
+    {
+      "$oid": "661686981a0e1a245e3affa5"
+    }
+  ],
+  "performer": [
+    {
+      "$oid": "6616c9dc5706dc6d40842b81"
+    },
+    {
+      "$oid": "6616c9dc5706dc6d40842b82"
+    },
+    {
+      "$oid": "6616c9dc5706dc6d40842b83"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-10T12:42:02.374Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-11T03:30:44.499Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66168a891a0e1a245e3b001e"
+  },
+  "mediaType": "tv",
+  "mediaTitle": "Cua lại vợ cũ",
+  "mediaDecription": "Chủ tịch lạnh lùng Thịnh Nam Phương bị ép phải cưới cô gái bình thường Tô Thiều Nhan, lại vì biết bao hiểu lầm mà làm tổn thương trái tim cô ấy, ly hôn xong mới biết mình đã đánh mất tình yêu đích thực. Để cua lại vợ cũ, Thịnh Nam Phương biến thành một ông chồng “cá con” đội vợ lên đầu, cuối cùng cũng khiến vợ cảm động, thành công ôm được người đẹp về nhà.",
+  "mediaRate": 8,
+  "mediaYear": 2022,
+  "mediaOfViewmediaRate": 0,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20240324-1/4c226c32cbeee40e833c645c65f3d7f1.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/TselSh6fPuQ&list=PLO_WVghkLH6ZU_MlQkLkQwG_URM3q9v2b",
+  "mediaLinkEnbale": "",
+  "episodes": [
+    {
+      "title": "Tập 01",
+      "episodeNumber": 1,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240329/F1aKvUPk/index.m3u8",
+      "_id": {
+        "$oid": "6616ca305706dc6d40842eee"
+      }
+    },
+    {
+      "title": "Tập 02",
+      "episodeNumber": 2,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240329/0NHTxZ07/index.m3u8",
+      "_id": {
+        "$oid": "6616ca305706dc6d40842eef"
+      }
+    },
+    {
+      "title": "Tập 03",
+      "episodeNumber": 3,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240329/5yIYkcsH/index.m3u8",
+      "_id": {
+        "$oid": "6616ca305706dc6d40842ef0"
+      }
+    },
+    {
+      "title": "Tập 04",
+      "episodeNumber": 4,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240329/9cHbR5In/index.m3u8",
+      "_id": {
+        "$oid": "6616ca305706dc6d40842ef1"
+      }
+    },
+    {
+      "title": "Tập 05",
+      "episodeNumber": 5,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240329/MGpBVJ4w/index.m3u8",
+      "_id": {
+        "$oid": "6616ca305706dc6d40842ef2"
+      }
+    },
+    {
+      "title": "Tập 06",
+      "episodeNumber": 6,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240329/MYL8wAmn/index.m3u8",
+      "_id": {
+        "$oid": "6616ca305706dc6d40842ef3"
+      }
+    },
+    {
+      "title": "Tập 07",
+      "episodeNumber": 7,
+      "mediaLinkEnbale": "player.phimapi.com/player/?url=https://s3.phim1280.tv/20240329/0oU2aArl/index.m3u8",
+      "_id": {
+        "$oid": "6616ca305706dc6d40842ef4"
+      }
+    },
+    {
+      "title": "Tập 08",
+      "episodeNumber": 8,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240329/523TKr9U/index.m3u8",
+      "_id": {
+        "$oid": "6616ca305706dc6d40842ef5"
+      }
+    },
+    {
+      "title": "Tập 09",
+      "episodeNumber": 9,
+      "mediaLinkEnbale": "tps://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240329/4WMTOOxE/index.m3u8",
+      "_id": {
+        "$oid": "6616ca305706dc6d40842ef6"
+      }
+    },
+    {
+      "title": "Tập 10",
+      "episodeNumber": 10,
+      "mediaLinkEnbale": "api.com/player/?url=https://s3.phim1280.tv/20240329/ExUKKcIh/index.m3u8",
+      "_id": {
+        "$oid": "6616ca305706dc6d40842ef7"
+      }
+    },
+    {
+      "title": "Tập 11 ",
+      "episodeNumber": 11,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240329/2YQVj2mP/index.m3u8",
+      "_id": {
+        "$oid": "6616ca305706dc6d40842ef8"
+      }
+    },
+    {
+      "title": "Tập 12",
+      "episodeNumber": 12,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240329/B9C43vk0/index.m3u8",
+      "_id": {
+        "$oid": "6616ca305706dc6d40842ef9"
+      }
+    }
+  ],
+  "genres": [
+    {
+      "$oid": "661683da1a0e1a245e3aff5d"
+    }
+  ],
+  "performer": [],
+  "createdAt": {
+    "$date": "2024-04-10T12:48:09.459Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T17:19:44.306Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66168c521a0e1a245e3b00e5"
+  },
+  "mediaType": "tv",
+  "mediaTitle": "Saree Yêu Dấu",
+  "mediaDecription": "Sarree Yêu Dấu - Sinaeha Saree xoay quanh câu chuyện tình yêu và cuộc sống của Nuannuerkaew Jaz. Cô chưa bao giờ nghĩ đến việc đến Ấn Độ, nhưng bây giờ cô phải bay đến đây vì em gái là Nilapat sẽ kết hôn với Chaithat - hoàng tử của thành phố Muntra Putra. Mọi chuyện đều tốt đẹp cho đến khi Nữ hoàng Sasiprapai không chấp nhận Nilapat là con dâu của mình. Bà sắp đặt Savitree cho Chaithat, một kẻ chuyên gây rắc rối và có âm mưu sẽ phá hỏng lễ cưới của Nilapat và Chaithat. Câu chuyện sẽ đỡ phức tạp hơn nếu cô không gặp Giris, anh trai của Chaithat, người mà cô đã yêu ngay từ cái nhìn đầu tiên.",
+  "mediaRate": 8,
+  "mediaYear": 2022,
+  "mediaOfViewmediaRate": 0,
+  "mediaLinkPoster": "https://img.phimapi.com/upload/vod/20240324-1/4a5caf2208f8747f375979c87a0fb6f5.jpg",
+  "mediaLinkTrailer": "https://www.youtube.com/embed/pOjNob8YZug",
+  "mediaLinkEnbale": "",
+  "episodes": [
+    {
+      "title": "Tập 01",
+      "episodeNumber": 1,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240327/9FVCT9PK/index.m3u8",
+      "_id": {
+        "$oid": "6616ca3a5706dc6d40842f4d"
+      }
+    },
+    {
+      "title": "Tập 02",
+      "episodeNumber": 2,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240327/JSeETiVS/index.m3u8",
+      "_id": {
+        "$oid": "6616ca3a5706dc6d40842f4e"
+      }
+    },
+    {
+      "title": "Tập 03",
+      "episodeNumber": 3,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240327/pgcyjaGh/index.m3u8",
+      "_id": {
+        "$oid": "6616ca3a5706dc6d40842f4f"
+      }
+    },
+    {
+      "title": "Tập 04",
+      "episodeNumber": 4,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240327/xUuz9d5v/index.m3u8",
+      "_id": {
+        "$oid": "6616ca3a5706dc6d40842f50"
+      }
+    },
+    {
+      "title": "Tập 05",
+      "episodeNumber": 5,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240327/gL3YxIas/index.m3u8",
+      "_id": {
+        "$oid": "6616ca3a5706dc6d40842f51"
+      }
+    },
+    {
+      "title": "Tập 06",
+      "episodeNumber": 6,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240327/NacKeZSB/index.m3u8",
+      "_id": {
+        "$oid": "6616ca3a5706dc6d40842f52"
+      }
+    },
+    {
+      "title": "Tập 07",
+      "episodeNumber": 7,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240327/dXcQNQhR/index.m3u8",
+      "_id": {
+        "$oid": "6616ca3a5706dc6d40842f53"
+      }
+    },
+    {
+      "title": "Tập 08",
+      "episodeNumber": 8,
+      "mediaLinkEnbale": "tps://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240327/tk2sHSUu/index.m3u8",
+      "_id": {
+        "$oid": "6616ca3a5706dc6d40842f54"
+      }
+    },
+    {
+      "title": "Tập 09",
+      "episodeNumber": 9,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240327/qu1xcMPT/index.m3u8",
+      "_id": {
+        "$oid": "6616ca3a5706dc6d40842f55"
+      }
+    },
+    {
+      "title": "Tập 10",
+      "episodeNumber": 10,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240327/FsCXQ3eY/index.m3u8",
+      "_id": {
+        "$oid": "6616ca3a5706dc6d40842f56"
+      }
+    },
+    {
+      "title": "Tập 11",
+      "episodeNumber": 11,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240327/TxyMxBlF/index.m3u8",
+      "_id": {
+        "$oid": "6616ca3a5706dc6d40842f57"
+      }
+    },
+    {
+      "title": "Tập 12",
+      "episodeNumber": 12,
+      "mediaLinkEnbale": "https://player.phimapi.com/player/?url=https://s3.phim1280.tv/20240327/VBxiSZEP/index.m3u8",
+      "_id": {
+        "$oid": "6616ca3a5706dc6d40842f58"
+      }
+    }
+  ],
+  "genres": [
+    {
+      "$oid": "66168b641a0e1a245e3b00b5"
+    },
+    {
+      "$oid": "661683da1a0e1a245e3aff5d"
+    }
+  ],
+  "performer": [
+    {
+      "$oid": "6616ca3a5706dc6d40842f3a"
+    },
+    {
+      "$oid": "6616ca3a5706dc6d40842f3b"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-04-10T12:55:46.729Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T17:19:54.379Z"
+  }
+}]
