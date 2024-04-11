@@ -1,0 +1,22 @@
+.navbar-nav {
+    .nav-item {
+      .active{
+        background-color: #F7941D !important;
+        color: #fff !important;
+      }
+      .nav-link {
+        font-weight: 700;
+  
+        
+  
+        .svg-inline--fa {
+          margin-left: 10%;
+        }
+      }
+    }
+  
+    .nav-item:hover {
+      background-color: #f7941d;
+      cursor: pointer;
+    }
+  }

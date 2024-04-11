@@ -1,0 +1,51 @@
+.container-fluid {
+  .input-group {
+    margin-top: 10px;
+    display: flex;
+    float: right;
+    width: 50%;
+
+    .search {
+      border: 1px solid #000 !important;
+      border-right: none !important;
+    }
+  }
+  .nav-fill {
+    .nav-item {
+      .nav-link {
+        color: black;
+        font-size: 25px;
+        text-transform: capitalize;
+      }
+
+      .active {
+        background-color: #f7941d;
+      }
+    }
+  }
+}
+table {
+    width: 100%;
+    max-width: 100%;
+    border-collapse: collapse;
+  
+    thead {
+      td {
+        width: 1%;
+        padding: 0.5rem;
+        vertical-align: top;
+        display: flex;
+  
+        .btn {
+          margin-left: 20px;
+          justify-content: center;
+        }
+      }
+      th {
+        vertical-align: bottom;
+        width: 1%;
+        padding: 0.5rem;
+        vertical-align: top;
+      }
+    }
+  }

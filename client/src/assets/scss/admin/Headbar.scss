@@ -1,0 +1,17 @@
+.navbar {
+    .input-group{
+        .btn-primary{
+            background-color: black;
+            border-color: white;
+        }
+    }
+  .nav-item {
+    .badge-counter{
+        position: absolute;
+        transform: scale(0.7);
+        transform-origin: top right;
+        right: 0.25rem;
+        margin-top: -0.25rem;
+    }
+  }
+}

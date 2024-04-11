@@ -1,0 +1,44 @@
+.selected-genres {
+    display: flex;
+    flex-wrap: wrap;
+    /* Add other styling as needed */
+}
+
+.selected-genre {
+    margin-right: 8px; /* Adjust as needed */
+    margin-bottom: 8px; /* Adjust as needed */
+    /* Add other styling as needed */
+}
+
+.performer-description {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.selected-performer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; /* Khoảng cách giữa mỗi performer */
+}
+
+.selected-performer .form-control {
+    flex: 1; /* Phần text field mở rộng để chiếm hết không gian còn lại */
+}
+
+.selected-performer button {
+    margin-left: 10px; /* Khoảng cách giữa text field và nút X */
+}
+
+.add-episode-section {
+    margin-top: 20px; /* Khoảng cách giữa phần add performer và add episode */
+}
+
+.add-episode-container {
+    border: 1px solid #ccc; /* Đường viền của khung */
+    padding: 10px; /* Khoảng cách giữa đường viền và nội dung bên trong */
+    margin-top: 20px; /* Khoảng cách giữa phần add performer và add episode */
+}
+
+.add-episode-section {
+    /* Thiết lập các thuộc tính của phần add episode */
+}
